@@ -8,7 +8,7 @@ Only supported on Mac OSX.
 To play:
 
 ```bash
-git clone git@github.com:erik-nelson/AI_chess_engine.git
+git clone git@github.com:erik-nelson/ChessEngine.git
 cd ChessEngine/src
 ./play
 ```
