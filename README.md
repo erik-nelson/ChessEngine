@@ -15,4 +15,4 @@ cd ChessEngine/src
 
 The interface should look something like this:
 
-![alt text](https://github.com/erik-nelson/AI_chess_engine/blob/master/chess.png)
+![alt text](https://github.com/erik-nelson/ChessEngine/blob/master/chess.png)
